@@ -28,9 +28,11 @@ https://openai.com/
 ## Usage
 Install dependencies manually using pip or using poetry:
 ```shell
+git clone https://github.com/lambrou/CatGPT
+cd CatGPT
 pip install poetry
-cd catgpt
 poetry install
+poetry shell # activates poetry env
 ```
 
 ```shell
@@ -38,3 +40,13 @@ export OPENAI_API_KEY=YOUR_API_KEY
 export SERP_API_KEY=YOUR_API_KEY
 python main.py
 ```
+
+## Features
+
+    Double click the cat to show/hide the input window.
+
+    You can click and drag the cat wherever you want.
+
+    Use the hide buttons to make things go away.
+
+    There is currently a bug where you first have to move the cat at least 1px before the speech bubble will snap into place.
