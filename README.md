@@ -1,5 +1,8 @@
 # CatGPT
 
+![image](https://github.com/lambrou/CatGPT/assets/42124973/34bdbebc-5843-4d02-8e96-919e65317237)
+
+
 A GPT-powered cat with Google Search that sits on top of all your windows.
 
 ## Requirements
