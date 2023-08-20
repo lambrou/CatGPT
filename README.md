@@ -4,7 +4,7 @@
 
 
 A GPT-powered cat with Google Search that sits on top of all your windows.
-
+###### Currently only tested on Linux with KDE Plasma. May work on other platforms.
 ## Requirements
 ```shell
 Python 3.11
